@@ -7,7 +7,7 @@ image: kbruno/blog
 # Deploy to these servers.
 servers:
   web:
-    - 143.110.220.142
+    - 134.122.32.221
   # job:
   #   hosts:
   #     - 192.168.0.1
